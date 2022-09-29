@@ -12,7 +12,7 @@ Exemplo da estrutura de armazenamento das vendas:
          TER PIC  FAI  GRA  SJR
         [10, 20 , 30, 40 , 50], #Gasolina
         [15, 25, 35, 45, 55]    #Gasoleo
-        
+
     ]
 
     ou então:
