@@ -14,6 +14,7 @@ if __name__ == '__main__':
     for x in range(len(nums)):
 
         while True:
+          # print('aqui') ---Exclusivamente para ver quantas vezes o ciclo corre até achar os 5 números únicos---
             onumero = get_random(1, 5)
             if onumero not in nums:
                 nums[x] = onumero
