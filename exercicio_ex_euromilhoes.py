@@ -13,5 +13,14 @@ if __name__ == '__main__':
                 nums[x] = onumero
                 break
 
-    print('Números')
+    print('      Números')
     print(nums)
+
+
+ #   1ª abordagem
+""" troquei=True
+    while troquei:
+        troquei=False
+        for x in range(4):
+            if vendas[x] > vendas[x+1]:
+                troquei=True"""
